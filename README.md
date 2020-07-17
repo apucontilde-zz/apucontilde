@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi, Hola, I'm Ricardo Apú, Bachelor in Computer Science.
+#### Pronouns: he/him
+#### Current Job
+I’m currently working at EY as a Fullstack Developer in a Blockchain-based tax solution proyect, as well as some side freelance proyects.
+#### Reach me at ricardoapuch@gmail.com
 
 <!--
 **apucontilde/apucontilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
